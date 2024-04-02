@@ -1,0 +1,7 @@
+C:\Users\muhittin.akin\Desktop\Projeler\OOP Presipleri\OOP Presipleri\bin\Debug\OOP Presipleri.exe.config
+C:\Users\muhittin.akin\Desktop\Projeler\OOP Presipleri\OOP Presipleri\bin\Debug\OOP Presipleri.exe
+C:\Users\muhittin.akin\Desktop\Projeler\OOP Presipleri\OOP Presipleri\bin\Debug\OOP Presipleri.pdb
+C:\Users\muhittin.akin\Desktop\Projeler\OOP Presipleri\OOP Presipleri\obj\Debug\OOP Presipleri.csproj.AssemblyReference.cache
+C:\Users\muhittin.akin\Desktop\Projeler\OOP Presipleri\OOP Presipleri\obj\Debug\OOP Presipleri.csproj.CoreCompileInputs.cache
+C:\Users\muhittin.akin\Desktop\Projeler\OOP Presipleri\OOP Presipleri\obj\Debug\OOP Presipleri.exe
+C:\Users\muhittin.akin\Desktop\Projeler\OOP Presipleri\OOP Presipleri\obj\Debug\OOP Presipleri.pdb
